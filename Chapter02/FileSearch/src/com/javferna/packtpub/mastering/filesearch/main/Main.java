@@ -6,12 +6,18 @@ import java.util.Date;
 import com.javferna.packtpub.mastering.filesearch.parallel.group.ParallelGroupFileSearch;
 import com.javferna.packtpub.mastering.filesearch.serial.SerialFileSearch;
 import com.javferna.packtpub.mastering.filesearch.utils.Result;
+import com.oddcc.study.utils.PathUtils;
 
 public class Main {
 
 	public static void main(String[] args) {
+		File file;
+		if (PathUtils.isWindows()) {
+			file = new File("C:\\Windows\\");
+		} else {
+			file = PathUtils.getHome();
+		}
 
-		File file = new File("C:\\Windows\\");
 		String regex = "hosts";
 		Date start, end;
 

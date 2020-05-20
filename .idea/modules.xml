@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter12/TestInformation/TestInformation.iml" filepath="$PROJECT_DIR$/Chapter12/TestInformation/TestInformation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter12/TestJPF/TestJPF.iml" filepath="$PROJECT_DIR$/Chapter12/TestJPF/TestJPF.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter12/TestTC/TestTC.iml" filepath="$PROJECT_DIR$/Chapter12/TestTC/TestTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
     </modules>
   </component>
 </project>
