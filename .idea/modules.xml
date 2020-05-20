@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MCP.iml" filepath="$PROJECT_DIR$/.idea/MCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/Chapter11/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/EventNotificationSystem/EventNotificationSystem.iml" filepath="$PROJECT_DIR$/Chapter10/EventNotificationSystem/EventNotificationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter02/FileSearch/FileSearch.iml" filepath="$PROJECT_DIR$/Chapter02/FileSearch/FileSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06/GeneticAlgorithm/GeneticAlgorithm.iml" filepath="$PROJECT_DIR$/Chapter06/GeneticAlgorithm/GeneticAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/IRSystem/IRSystem.iml" filepath="$PROJECT_DIR$/Chapter08/IRSystem/IRSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter07/KMeansClustering/KMeansClustering.iml" filepath="$PROJECT_DIR$/Chapter07/KMeansClustering/KMeansClustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MCP.iml" filepath="$PROJECT_DIR$/MCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter02/MatrixMultiplier/MatrixMultiplier.iml" filepath="$PROJECT_DIR$/Chapter02/MatrixMultiplier/MatrixMultiplier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter07/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Chapter07/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter03/NearestNeighbors/NearestNeighbors.iml" filepath="$PROJECT_DIR$/Chapter03/NearestNeighbors/NearestNeighbors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/NewsNotificationSystem/NewsNotificationSystem.iml" filepath="$PROJECT_DIR$/Chapter10/NewsNotificationSystem/NewsNotificationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08/NumericalSummarizationRetail/NumericalSummarizationRetail.iml" filepath="$PROJECT_DIR$/Chapter08/NumericalSummarizationRetail/NumericalSummarizationRetail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter07/ObjectFilter/ObjectFilter.iml" filepath="$PROJECT_DIR$/Chapter07/ObjectFilter/ObjectFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/Chapter11/Synchronization/Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/TestInformation/TestInformation.iml" filepath="$PROJECT_DIR$/Chapter12/TestInformation/TestInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/TestJPF/TestJPF.iml" filepath="$PROJECT_DIR$/Chapter12/TestJPF/TestJPF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/TestTC/TestTC.iml" filepath="$PROJECT_DIR$/Chapter12/TestTC/TestTC.iml" />
     </modules>
   </component>
 </project>
